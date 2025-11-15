@@ -112,7 +112,7 @@
     "indexeddbshim": "10.1.0",
     "inquirer": "8.2.6",
     "istanbul-instrumenter-loader": "3.0.1",
-    "js-yaml": "4.1.0",
+    "js-yaml": "4.1.1",
     "karma": "6.4.4",
     "karma-chrome-launcher": "3.2.0",
     "karma-cli": "2.0.0",
